@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Zihan Luo's Portfolio
 
 You can use the [editor on GitHub](https://github.com/Zihan-UoM/Zihan-Luo.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
